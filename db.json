@@ -1,0 +1,602 @@
+{
+    "dark-souls-1": {
+        "no-dlc": [
+            {
+                "id": "61f4e383-321e-4d42-957f-1e5d89403086",
+                "name": "Asylum Demon",
+                "image": "",
+                "location": "Northern Undead Asylum"
+            },
+            {
+                "id": "a7c1535c-dcde-4def-9077-c4a88ad22b61",
+                "name": "Taurus Demon",
+                "image": "",
+                "location": "Undead Burg"
+            },
+            {
+                "id": "57532b66-a705-498a-adca-3764a652b7dc",
+                "name": "Bell Gargoyles",
+                "image": "",
+                "location": "Undead Parish"
+            },
+            {
+                "id": "015c42c2-5996-497a-ac28-7dde95295ec2",
+                "name": "Moonlight Butterfly",
+                "image": "",
+                "location": "Darkroot Garden"
+            },
+            {
+                "id": "6a1e73b1-d1bb-402a-ba78-085719c8cf12",
+                "name": "Capra Demon",
+                "image": "",
+                "location": "Lower Undead Burg"
+            },
+            {
+                "id": "32a14fd9-d0b1-4893-b40c-3ae08113f2bb",
+                "name": "Gaping Dragon",
+                "image": "",
+                "location": "The Depths"
+            },
+            {
+                "id": "07069ad0-5798-4a26-98fb-bc2787980556",
+                "name": "Stray Demon",
+                "image": "",
+                "location": "Undead Asylum"
+            },
+            {
+                "id": "1b5b24b0-015a-4320-9a33-5a80f4522dbe",
+                "name": "Chaos Witch Quelaag",
+                "image": "",
+                "location": "Blighttown"
+            },
+            {
+                "id": "3250fe08-3f06-4806-9b95-f8a172efc001",
+                "name": "Great Grey Wolf Sif",
+                "image": "",
+                "location": "Darkroot Garden"
+            },
+            {
+                "id": "9e88715a-8c86-4600-923c-6a44da9ed89d",
+                "name": "Iron Golem",
+                "image": "",
+                "location": "Sen's Fortress"
+            },
+            {
+                "id": 11,
+                "name": "Crossbreed Priscilla",
+                "image": "",
+                "location": "Painted World of Ariamis"
+            },
+            {
+                "id": "f85c3abc-b4e5-4dfd-917e-64a9922b116f",
+                "name": "Ornstein and Smough",
+                "image": "",
+                "location": "Anor Londo"
+            },
+            {
+                "id": "b8ed0c41-838c-4413-b33a-575eafce7b77",
+                "name": "Dark Sun Gwyndolin",
+                "image": "",
+                "location": "Anor Londo"
+            },
+            {
+                "id": "66922823-6927-403c-9f07-768c72dfb2a9",
+                "name": "Pinwheel",
+                "image": "",
+                "location": "The Catacombs"
+            },
+            {
+                "id": "b5337de1-52e5-47b1-b2a7-dd00e26161b6",
+                "name": "Gravelord Nito",
+                "image": "",
+                "location": "Tomb of the Giants"
+            },
+            {
+                "id": "9f2dabcb-72a7-44c0-b32e-bee950edda2e",
+                "name": "Seath the Scaleless",
+                "image": "",
+                "location": "Crystal Cave"
+            },
+            {
+                "id": "d5997485-efdd-4643-80f3-d859e74c8f86",
+                "name": "The Four Kings",
+                "image": "",
+                "location": "New Londo Ruins"
+            },
+            {
+                "id": "c566df9a-de52-4f2b-8ad5-a23ca26c7b1c",
+                "name": "Ceaseless Discharge",
+                "image": "",
+                "location": "Demon Ruins"
+            },
+            {
+                "id": "7c9226b9-4702-4544-a9dc-8557599fbc85",
+                "name": "Centipede Demon",
+                "image": "",
+                "location": "Demon Ruins"
+            },
+            {
+                "id": "f4aec75d-5492-41a0-88ec-ece410e9c15c",
+                "name": "Firesage Demon",
+                "image": "",
+                "location": "Demon Ruins"
+            },
+            {
+                "id": "14b2037e-e822-4004-96dd-7404f53e04d1",
+                "name": "Bed of Chaos",
+                "image": "",
+                "location": "Lost Izazlith"
+            },
+            {
+                "id": "ba02edce-2393-4daa-9101-6875fad82b12",
+                "name": "Gwyn, Lord of Cinder",
+                "image": "",
+                "location": "Kiln of the First Flame"
+            }
+        ],
+        "dlc": {
+            "artorias": [
+                {
+                    "id": "ee7757ab-4a1d-4f93-9352-1c63672f18d2",
+                    "name": "Sanctuary Guardian",
+                    "image": "",
+                    "location": "Sanctuary Garden"
+                },
+                {
+                    "id": "4c02acbc-e528-4b9b-9977-2a78dc881b70",
+                    "name": "Artorias the Abysswalker",
+                    "image": "",
+                    "location": "Royal Wood"
+                },
+                {
+                    "id": "32ae8ee6-5764-4181-ac4a-46ade35f9675",
+                    "name": "Black Dragon Kalameet",
+                    "image": "",
+                    "location": "Royal Wood"
+                },
+                {
+                    "id": "84b03bf1-29e9-4d48-bbf9-92473d568e8e",
+                    "name": "Manus, Father of the Abyss",
+                    "image": "",
+                    "location": "Chasm of the Abyss"
+                }
+            ]
+        }
+    },
+    "dark-souls-2": {
+        "no-dlc": [
+            {
+                "id": "1112e837-eafb-44b6-a52f-8a435e6ab2ff",
+                "name": "The Last Giant",
+                "image": "",
+                "location": "Forest of Fallen Giants (Cardinal Tower)"
+            },
+            {
+                "id": "958b470c-0db2-4d4c-b837-6693dc98fc29",
+                "name": "The Pursuer",
+                "image": "",
+                "location": "Forest of Fallen Giants (Cardinal Tower)"
+            },
+            {
+                "id": "947957e6-9d6b-49e0-a986-6abeb5d852e1",
+                "name": "Dragonrider",
+                "image": "",
+                "location": "Heide's Tower of Flame (Heide's Ruin)"
+            },
+            {
+                "id": "b40bb1c8-848d-4fc0-8985-ee044a34b4a6",
+                "name": "Old Dragonslayer",
+                "image": "",
+                "location": "Cathedral of Blue (Heide's Ruin)"
+            },
+            {
+                "id": "ce40e3a4-2d93-453a-8709-b2852ad9fdf1",
+                "name": "Flexile Sentry",
+                "image": "",
+                "location": "No-man's Wharf"
+            },
+            {
+                "id": "c6aee073-775d-4dcb-972d-47dd94e9f2d8",
+                "name": "Ruin Sentinels",
+                "image": "",
+                "location": "The Lost Bastille"
+            },
+            {
+                "id": "93ac6d7e-81fb-4201-8344-f8ee2abec192",
+                "name": "The Lost Sinner",
+                "image": "",
+                "location": "Sinner's Rise"
+            },
+            {
+                "id": "014de9b6-4fcf-4921-8a21-e98899e0249e",
+                "name": "Belfry Gargoyles",
+                "image": "",
+                "location": "Belfry Luna"
+            },
+            {
+                "id": "23c50428-daff-45de-8c3f-55a061474f27",
+                "name": "Skeleton Lords",
+                "image": "",
+                "location": "Huntsman's Copse"
+            },
+            {
+                "id": "b41437a5-2b8f-4843-b9a5-ca31275e4b50",
+                "name": "Executioner's Chariot",
+                "image": "",
+                "location": "Undead Purgatory"
+            },
+            {
+                "id": "cad38054-7aa5-4c46-b206-a522d5d3fa07",
+                "name": "Covetous Demon",
+                "image": "",
+                "location": "Earthen Peak"
+            },
+            {
+                "id": "53bf8df6-4efa-4a16-bc28-f6cb8ae52fea",
+                "name": "Mytha, the Baneful Queen",
+                "image": "",
+                "location": "Earthen Peak"
+            },
+            {
+                "id": "b7285cd9-0943-4bc3-a097-52074b40263c",
+                "name": "Smelter Demon",
+                "image": "",
+                "location": "Iron Keep"
+            },
+            {
+                "id": "ee5e0283-91ed-4553-91d2-4833033ad0e7",
+                "name": "Old Iron King",
+                "image": "",
+                "location": "Iron Keep"
+            },
+            {
+                "id": "5d20eca4-6386-46f6-bb60-36738e3819e7",
+                "name": "Scorpioness Najka",
+                "image": "",
+                "location": "Shaded Woods"
+            },
+            {
+                "id": "b3483974-9600-4309-85fd-c95d5b5680ba",
+                "name": "Royal Rat Authority",
+                "image": "",
+                "location": "Doors of Pharros"
+            },
+            {
+                "id": "815d5898-f1ba-4dd6-b4db-d4e356d287d1",
+                "name": "Prowling Magus & Congregation",
+                "image": "",
+                "location": "Brightstone Cove Tseldora"
+            },
+            {
+                "id": "7918cb43-1fe2-484d-8bdb-f8b566792ecc",
+                "name": "The Duke's Dear Freja",
+                "image": "",
+                "location": "Brightstone Cove Tseldora"
+            },
+            {
+                "id": "be5d8dfa-1f93-49b9-8329-604c620121f3",
+                "name": "Royal Rat Vanguard",
+                "image": "",
+                "location": "Grave of Saints"
+            },
+            {
+                "id": "c7aabaf5-f23a-4d84-b43c-b28677f4dfbf",
+                "name": "The Rotten",
+                "image": "",
+                "location": "Black Gulch"
+            },
+            {
+                "id": "f3ed5507-5a5f-4679-90e3-7d9ad3bb080b",
+                "name": "Dragonriders",
+                "image": "",
+                "location": "Drangleic Castle"
+            },
+            {
+                "id": "503f5289-7a1c-4cf6-afa6-f64d64b4108d",
+                "name": "Looking Glass Knight",
+                "image": "",
+                "location": "King's Passage"
+            },
+            {
+                "id": "cb492259-77d3-4ef1-96ab-a63454a4c920",
+                "name": "Demon of Song",
+                "image": "",
+                "location": "Shrine of Amana"
+            },
+            {
+                "id": "30cbad42-a673-4c4a-bb02-4028715b85fe",
+                "name": "Velstadt, the Royal Aegis",
+                "image": "",
+                "location": "Undead Crypt"
+            },
+            {
+                "id": "f87afb00-b0b7-4933-9e73-525873afaea4",
+                "name": "Vendrick",
+                "image": "",
+                "location": "Undead Crypt"
+            },
+            {
+                "id": "99cce039-fbec-47e4-a32e-071325f57e11",
+                "name": "Guardian Dragon",
+                "image": "",
+                "location": "Aldia's Keep"
+            },
+            {
+                "id": "872664fe-92fb-4b90-9886-420c50e50621",
+                "name": "Ancient Dragon",
+                "image": "",
+                "location": "Dragon Shrine"
+            },
+            {
+                "id": "6b3da0c7-52be-4471-8a33-b80bdadbb820",
+                "name": "Giant Lord",
+                "image": "",
+                "location": "Memory of Jeigh"
+            },
+            {
+                "id": "f8de4f82-fcb9-4f93-b6c7-2a3c5bafbe7e",
+                "name": "Throne Defender & Throne Watcher",
+                "image": "",
+                "location": "Throne of Want"
+            },
+            {
+                "id": "dccfa6c9-7173-4849-994d-fb0d5ffe17af",
+                "name": "Nashandra",
+                "image": "",
+                "location": "Throne of Want"
+            },
+            {
+                "id": "d58288a3-96c6-4212-b6d3-23b7ab72ba66",
+                "name": "Aldia, Scholar of the First Sin",
+                "image": "",
+                "location": "Throne of Want"
+            },
+            {
+                "id": "e6269e48-7156-48b8-a8a0-c08894192e6c",
+                "name": "Darklurker",
+                "image": "",
+                "location": "Dark Chasm of Old"
+            }
+        ],
+        "dlc": {
+            "sunken-king": [
+                {
+                    "id": "a8d9df50-12c8-4501-a552-4eab90536252",
+                    "name": "Elana, the Squalid Queen",
+                    "image": "",
+                    "location": "Dragon's Rest"
+                },
+                {
+                    "id": "5e32b931-e7ec-4d55-b3b1-ee07dfeff1ec",
+                    "name": "Sinh, the Slumbering Dragon",
+                    "image": "",
+                    "location": "Dragon's Rest"
+                },
+                {
+                    "id": "7b30ff18-92ed-485f-9337-a39bdba41bad",
+                    "name": "Afflicted Graverobber, Ancient Soldier Varg & Cerah the Old Explorer",
+                    "image": "",
+                    "location": "Cave of the Dead"
+                }
+            ],
+            "old-iron-king": [
+                {
+                    "id": "def99c82-072d-403d-9d7d-9558835f355c",
+                    "name": "Fume Knight",
+                    "image": "",
+                    "location": "Brume Tower"
+                },
+                {
+                    "id": "b7ebd477-3fa3-4e95-833c-8c7c2c573bae",
+                    "name": "Sir Alonne",
+                    "image": "",
+                    "location": "Memory of the Old Iron King"
+                },
+                {
+                    "id": "178a07c6-14ba-4a15-9af3-196e375486c3",
+                    "name": "Smelter Demon",
+                    "image": "",
+                    "location": "Iron Passage"
+                }
+            ],
+            "ivory-king": [
+                {
+                    "id": "f8320e96-1270-4c6f-ba36-1d1deb72888a",
+                    "name": "Aava, the King's Pet",
+                    "image": "",
+                    "location": "Frozen Eleum Loyce"
+                },
+                {
+                    "id": "de813216-ae88-4773-817e-f67a6d45ee59",
+                    "name": "Burnt Ivory King",
+                    "image": "",
+                    "location": "The Old Chaos"
+                },
+                {
+                    "id": "3631ae9e-6077-409a-a4f7-ca3e733b9d82",
+                    "name": "Lud, the King's Pet & Zallen, the King's Pet",
+                    "image": "",
+                    "location": "Frigid Outskirts"
+                }
+            ]
+        }
+    },
+    "dark-souls-3": {
+        "no-dlc": [
+            {
+                "id": "4b43fa29-b0f3-4f94-bdbf-b4fd8816ef3b",
+                "name": "Iudex Gundyr",
+                "image": "",
+                "location": "Cemetery of Ash"
+            },
+            {
+                "id": "6ee1a695-28e9-448f-973e-bfeb6fef7c4c",
+                "name": "Vordt of the Boreal Valley",
+                "image": "",
+                "location": "High Wall of Lothric"
+            },
+            {
+                "id": "291e8a2e-2075-4860-b095-f6cd7fe0f49d",
+                "name": "Dancer of the Boreal Valley ",
+                "image": "",
+                "location": "High Wall of Lothric"
+            },
+            {
+                "id": "74eed2fb-5617-4a49-9194-4f4d0da0b784",
+                "name": "Curse-Rotted Greatwood",
+                "image": "",
+                "location": "Undead Settlement"
+            },
+            {
+                "id": "3dc9b8c5-1a51-41d5-9034-de30a5665604",
+                "name": "Crystal Sage",
+                "image": "",
+                "location": "Road of Sacrifices"
+            },
+            {
+                "id": "0bb92dcc-6b26-4bdc-b010-29fde607c2bc",
+                "name": "Deacons of the Deep ",
+                "image": "",
+                "location": "Cathedral of the Deep"
+            },
+            {
+                "id": "815c05a6-9b5c-45f0-90cd-a942f6548dc1",
+                "name": "Abyss Watchers",
+                "image": "",
+                "location": "Farron Keep"
+            },
+            {
+                "id": "a779fe28-3104-4763-9619-890304e1382d",
+                "name": "High Lord Wolnir",
+                "image": "",
+                "location": "Catacombs of Carthus"
+            },
+            {
+                "id": "081df176-4d2e-4be2-856c-a06e06a69328",
+                "name": "Old Demon King",
+                "image": "",
+                "location": "Smouldering Lake"
+            },
+            {
+                "id": "73ae2081-68e9-4655-b622-758af9965ec8",
+                "name": "Pontiff Sulyvahn",
+                "image": "",
+                "location": "Irithyll of the Boreal Valley"
+            },
+            {
+                "id": "bb8527b8-5fe8-4c2c-85af-71f04a96940a",
+                "name": "Aldrich, Devourer of Gods",
+                "image": "",
+                "location": "Anor Londo"
+            },
+            {
+                "id": "9ea6a365-c5fd-4ae0-8fa0-5e12244d033e",
+                "name": "Yhorm the Giant",
+                "image": "",
+                "location": "Profaned Capital"
+            },
+            {
+                "id": "085114c6-24a8-4a91-bbe1-4b6c1e368696",
+                "name": "Oceiros, The Consumed King",
+                "image": "",
+                "location": "Consumed King’s Garden"
+            },
+            {
+                "id": "e781617a-c659-4457-a37d-e1daf00b073e",
+                "name": "Champion Gundyr",
+                "image": "",
+                "location": "Untended Graves"
+            },
+            {
+                "id": "3b2331ae-e525-4c86-b459-a8ec1f7fd788",
+                "name": "Dragonslayer Armour",
+                "image": "",
+                "location": "Lothric Castle"
+            },
+            {
+                "id": "411ec00b-7740-42ac-ac61-263daf75d0ee",
+                "name": "Lothric",
+                "image": "",
+                "location": "Grand Archives"
+            },
+            {
+                "id": "a27c0319-80f7-485b-a2c4-1d17d668c639",
+                "name": "Younger Prince and Lorian",
+                "image": "",
+                "location": "Grand Archives"
+            },
+            {
+                "id": "4393fb73-3155-4815-9678-10554df9c5d5",
+                "name": "Elder Prince",
+                "image": "",
+                "location": "Grand Archives"
+            },
+            {
+                "id": "fe35d987-fee8-48f4-83fc-2b683a571ce4",
+                "name": "Crystal Sage",
+                "image": "",
+                "location": "Grand Archives"
+            },
+            {
+                "id": "faa5d045-c510-4542-b8bf-e0f835468d54",
+                "name": "Ancient Wyvern",
+                "image": "",
+                "location": "Archdragon Peak"
+            },
+            {
+                "id": "3df7ba4b-796f-49a4-9f3d-f0a725b66a92",
+                "name": "The Nameless King",
+                "image": "",
+                "location": "Archdragon Peak"
+            },
+            {
+                "id": "e4b13ab7-0f29-4c47-8e48-7e69766198a5",
+                "name": "Soul of Cinder",
+                "image": "",
+                "location": "Kiln of the First Flame"
+            }
+        ],
+        "dlc": {
+            "ariandel": [
+                {
+                    "id": "9afb2974-f0b0-4737-9e41-58d10715e518",
+                    "name": "Champion's Gravetender",
+                    "image": "",
+                    "location": "Depths of the Painting"
+                },
+                {
+                    "id": "3dfac534-5666-481f-902b-2cabcfcbe0c2",
+                    "name": "Sister Friede",
+                    "image": "",
+                    "location": "Ariandel Chapel"
+                }
+            ],
+            "ringed-city": [
+                {
+                    "id": "13c1ed9e-679f-4cf7-bdd6-377efd09e8ee",
+                    "name": "Demon Prince",
+                    "image": "",
+                    "location": "Earthen Peak Ruins"
+                },
+                {
+                    "id": "e25c2f2a-9c84-406b-b9b8-9fc3c519600c",
+                    "name": "Halflight, Spear of the Church",
+                    "image": "",
+                    "location": "The Ringed City"
+                },
+                {
+                    "id": "c2142b7e-1b62-4b66-918e-85e98cbb0d7f",
+                    "name": "Darkeater Midir",
+                    "image": "",
+                    "location": "The Ringed City"
+                },
+                {
+                    "id": "2ba76ed8-a819-43a5-8599-04d84e789908",
+                    "name": "Slave Knight Gael",
+                    "image": "",
+                    "location": "Filianore's Rest"
+                }
+            ]
+        }
+    }
+}
